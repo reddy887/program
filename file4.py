@@ -1,2 +1,3 @@
 a=int(input("enter the number"))
-print (a)
+for i in range(1,a)
+ print(i)
